@@ -1,0 +1,66 @@
+﻿コピーライト
+------------
+
+OpenTweenプロジェクト:
+
+  Copyright (C) 2011 kim_upsilon <kim.upsilon@bucyou.net>
+  Copyright (C) 2011 Egtra <http://dev.activebasic.com/egtra/>
+  Copyright (C) 2011 spinor <http://d.hatena.ne.jp/spinor/>
+  Copyright (C) 2011 tigree4th <crerish@gmail.com>
+  Copyright (C) 2012 shogo82148 <shogo82148@gmail.com>
+  Copyright (C) 2012 ANIKITI <brotherwood@users.sourceforge.jp>
+  Copyright (C) 2012 the40san <oss.ma40@gmail.com>
+  Copyright (C) 2014 spx <http://twitter.com/5px>
+
+Tween著作者:
+
+  Copyright (C) 2007 kiri_feather <kiri.feather@gmail.com>
+  Copyright (C) 2008 Moz <http://twitter.com/syo68k>
+  Copyright (C) 2008 takeshik <http://www.takeshik.org/>
+  Copyright (C) 2010 anis774 <http://d.hatena.ne.jp/anis774/>
+  Copyright (C) 2010 fantasticswallow <http://twitter.com/f_swallow>
+
+ライセンス
+----------
+
+  本プログラムはフリーソフトウェアです。あなたはこれを、GNU General Public
+  License (GNU 一般公衆利用許諾書) バージョン 3 またはそれ以降のバージョンが定
+  める条件下で再配布または改変することができます。
+
+  このプログラムは現状有姿のまま、いかなる保証もなく提供されます。プログラムの
+  品質や性能に関するすべてのリスクはあなたに帰属します。詳しくはライセンス本文
+  を参照して下さい。
+
+  ライセンスの完全なコピーは LICENSE.GPL-3 ファイルにあります。
+
+  また、ライセンスの *非公式な* 日本語訳は、
+  http://sourceforge.jp/magazine/07/09/02/130237 にて公開されています。
+
+
+アイコン
+--------
+
+  Copyright (C) 2012 抹花 / @matsukaaaa
+
+  このプログラムには、下記の LGPL ライセンスのアイコンが含まれています。
+
+    OpenTween/Resources/3b.ico
+    OpenTween/Resources/4b.ico
+    OpenTween/Resources/5b.ico
+    OpenTween/Resources/5g.ico
+    OpenTween/Resources/5r.ico
+    OpenTween/Resources/5y.ico
+    OpenTween/Resources/6b.ico
+    OpenTween/Resources/6g.ico
+    OpenTween/Resources/InitialImage.png
+    OpenTween/Resources/LogoImage.png
+    OpenTween/Resources/MultiMediaImage.png
+    OpenTween/Resources/re.ico
+    OpenTween/Resources/re2.ico
+    OpenTween/Resources/re3.ico
+    OpenTween/Resources/re4.ico
+
+  これらは https://github.com/opentween/OpenTween-icons からコピーされました。
+
+  GNU Lesser General Public License (GNU 劣等一般公衆利用許諾書) バージョン 3 の
+  完全なコピーは LICENSE.LGPL-3 ファイルにあります。

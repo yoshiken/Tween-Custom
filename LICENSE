@@ -1,0 +1,67 @@
+﻿Copyright
+---------
+
+OpenTween Project:
+
+  Copyright (C) 2011 kim_upsilon <kim.upsilon@bucyou.net>
+  Copyright (C) 2011 Egtra <http://dev.activebasic.com/egtra/>
+  Copyright (C) 2011 spinor <http://d.hatena.ne.jp/spinor/>
+  Copyright (C) 2011 tigree4th <crerish@gmail.com>
+  Copyright (C) 2012 shogo82148 <shogo82148@gmail.com>
+  Copyright (C) 2012 ANIKITI <brotherwood@users.sourceforge.jp>
+  Copyright (C) 2012 the40san <oss.ma40@gmail.com>
+  Copyright (C) 2014 spx <http://twitter.com/5px>
+
+Tween Authors:
+
+  Copyright (C) 2007 kiri_feather <kiri.feather@gmail.com>
+  Copyright (C) 2008 Moz <http://twitter.com/syo68k>
+  Copyright (C) 2008 takeshik <http://www.takeshik.org/>
+  Copyright (C) 2010 anis774 <http://d.hatena.ne.jp/anis774/>
+  Copyright (C) 2010 fantasticswallow <http://twitter.com/f_swallow>
+
+
+License
+-------
+
+  This program is free software; you can redistribute it and/or modify it under
+  the terms of the GNU General Public License as published by the Free Software
+  Foundation; either version 3 of the License, or (at your option) any later
+  version.
+
+  This program is distributed in the hope that it will be useful, but WITHOUT
+  ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+  FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+  The complete text of the GNU General Public License version 3 can be found in
+  the `LICENSE.GPL-3' file.
+
+
+Icons
+-----
+
+  Copyright (C) 2012 抹花 / @matsukaaaa
+
+  This program includes LGPL'ed icons listed below:
+
+    OpenTween/Resources/3b.ico
+    OpenTween/Resources/4b.ico
+    OpenTween/Resources/5b.ico
+    OpenTween/Resources/5g.ico
+    OpenTween/Resources/5r.ico
+    OpenTween/Resources/5y.ico
+    OpenTween/Resources/6b.ico
+    OpenTween/Resources/6g.ico
+    OpenTween/Resources/InitialImage.png
+    OpenTween/Resources/LogoImage.png
+    OpenTween/Resources/MultiMediaImage.png
+    OpenTween/Resources/re.ico
+    OpenTween/Resources/re2.ico
+    OpenTween/Resources/re3.ico
+    OpenTween/Resources/re4.ico
+
+  They were originally downloaded from
+  https://github.com/opentween/OpenTween-icons.
+
+  The complete text of the GNU Lesser General Public License version 3 can be
+  found in the `LICENSE.LGPL-3' file.
